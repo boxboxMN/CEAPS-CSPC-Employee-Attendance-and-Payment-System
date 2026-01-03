@@ -1,0 +1,31 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.input-container svg {
+    margin-right: 10px; /* Space between the icon and the input */
+}
+form {
+    width: 350px;
+    padding: 20px;
+    background: rgb(209, 22, 22);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #5b1879;
+    text-align: center;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #FBF6E9;
+    border-radius: 5px;
+    margin: 5px 0;
+    font-family: 'poppins';
+}
+h2 {
+    font-family: 'poppins';
+    
+}
