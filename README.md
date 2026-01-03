@@ -72,7 +72,7 @@ ________________________________________
 
     Employee Dashboard Features:
 
-      o Real-time employee summary:
+      o Real-time employee summary
       
       o Total work hours rendered
       
