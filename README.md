@@ -19,7 +19,7 @@ ________________________________________
 
   🧭 Landing Portal
 
-  • Interactive homepage with animated logo
+  • homepage
   
   • User routing to:
   
