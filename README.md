@@ -121,7 +121,3 @@ ________________________________________
     
     o	SQL injection prevention
 ________________________________________
-⚠️ Missing Files
-
-    o	db_conn.php
-    o	wage_warriors database (.sql file) 
